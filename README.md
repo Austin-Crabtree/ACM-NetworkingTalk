@@ -1,5 +1,5 @@
 # ACM-NetworkingTalk
-This repo holds the chatroom scripts, various C/Python networking programs and presentation for my 2017 ACM networking talk I gave at OU
+This repo holds the chatroom scripts, various C networking programs and presentation for my 2017 ACM networking talk I gave at OU
 
 ## How to use the scripts
 - Start the server: python3 server.py or ./server.py
